@@ -212,15 +212,15 @@ h4 {
   transition: box-shadow 0.3s ease-in-out;
 }
 
-.rdeck::-webkit-scrollbar, .right::-webkit-scrollbar {
+.rdeck::-webkit-scrollbar, .ldeck::-webkit-scrollbar {
     width: 5px;
 }
 
-.rdeck::-webkit-scrollbar-track, .right::-webkit-scrollbar-track {
+.rdeck::-webkit-scrollbar-track, .ldeck::-webkit-scrollbar-track {
     background-color: #F9FBFF;
 }
 
-.rdeck::-webkit-scrollbar-thumb, .right::-webkit-scrollbar-thumb {
+.rdeck::-webkit-scrollbar-thumb, .ldeck::-webkit-scrollbar-thumb {
     background-color: #52504e ;
     border-radius: 100px;
 }
